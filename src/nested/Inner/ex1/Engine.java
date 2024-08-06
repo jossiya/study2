@@ -1,4 +1,4 @@
-package nested.nested.Inner.ex1;
+package nested.Inner.ex1;
 
 //Car에서만 사용
 public class Engine {

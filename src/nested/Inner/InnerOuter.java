@@ -1,4 +1,4 @@
-package nested.nested.Inner;
+package nested.Inner;
 
 public class InnerOuter {
     private static int outClassValue = 3;

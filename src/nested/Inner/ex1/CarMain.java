@@ -1,4 +1,4 @@
-package nested.nested.Inner.ex1;
+package nested.Inner.ex1;
 
 public class CarMain {
     public static void main(String[] args) {
